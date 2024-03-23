@@ -8,3 +8,5 @@ Hello, I am writing this article from the terminal.
 
 merhaba arkadaşlar
 hello world
+
+değişiklik
